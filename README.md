@@ -21,12 +21,12 @@ Here is the "going-in" plan. I assume they will change or be better fleshed out 
 These are the things I would like to add:
 
 - [ ] Form input box to add my own markers. For example, It would be cool if I could add a `{*spell-content*}` marker that noted the following text as a relating to a spell-content category. Later, I could run a python script to go line by line through the text files and place this text into a database table. As such, we could use other markers:
-      *`{*spell-title*}`
-      *`{*spell-content*}`
-      *`{*spell-cat*}`
-      *`{*spell-damage*}`
-      *`{*spell-buff*}`
-      *`{*spell-heal*}`
+      &nbsp;&nbsp;&nbsp;&nbsp;`{*spell-title*}`
+      &nbsp;&nbsp;&nbsp;&nbsp;`{*spell-content*}`
+      &nbsp;&nbsp;&nbsp;&nbsp;`{*spell-cat*}`
+      &nbsp;&nbsp;&nbsp;&nbsp;`{*spell-damage*}`
+      &nbsp;&nbsp;&nbsp;&nbsp;`{*spell-buff*}`
+      &nbsp;&nbsp;&nbsp;&nbsp;`{*spell-heal*}`
       etcetera
 - [ ] Make things look "pretty." Such as, denote titles, sub-titles, bold and emphasis
 
