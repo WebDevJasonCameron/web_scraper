@@ -20,7 +20,7 @@ Here is the "going-in" plan. I assume they will change or be better fleshed out 
 
 These are the things I would like to add:
 
-- [ ] Form input box to add my own markers. For example, It would be cool if I could add a `{*spell-content*}` marker that noted the following text as a relating to a spell-content category. Later, I could run a python script to go line by line through the text files and place this text into a database table. As such, we could use other markers:
+- [ ] Form input box to add my own markers. For example, It would be cool if I could add a `{*spell-content*}` marker that noted the following text as a relating to a spell-content category. Later, I could run a python script to go line by line through the text files and place this text into a database table. As such, we could use other markers:<br />
       &nbsp;&nbsp;&nbsp;&nbsp;`{*spell-title*}`<br />
       &nbsp;&nbsp;&nbsp;&nbsp;`{*spell-content*}`<br />
       &nbsp;&nbsp;&nbsp;&nbsp;`{*spell-cat*}`<br />
