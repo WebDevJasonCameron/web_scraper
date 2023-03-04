@@ -33,3 +33,9 @@ These are the things I would like to add:
 ## Further Notes
 
 I am sure there are a lot of other things I'll come up as I continue. Some of the things will be put in my log. Important things that I plan to add or have accomplished will be place in this "living" readme (rm) doc. I think it would be fun if I could get this web-app popular enough that others would (1) want to use it; (2) participate in making it better; and (3) get their own purchased books from this deplorable corporation before they loose their hard-earned money on the whims of a money grabbing CEO.
+
+## My Sources
+
+So far, this project is done with the instructional help of the following website:
+
+- [Build a Web Scraper](https://www.youtube.com/watch?v=-3lqUHeZs_0)

@@ -1,3 +1,7 @@
+// To run this, change the url address, pick a element and add this to the code.
+// You also need to run the app with npm start within the console.  This will run on
+// port 8000 unless you change it later
+
 const PORT = 8000;
 
 const axios = require("axios");
@@ -8,8 +12,7 @@ const cors = require("cors");
 const app = express();
 app.use(cors());
 
-const url =
-	"https://www.dndbeyond.com/sources/basic-rules/step-by-step-characters";
+const url = "https://www.theguardian.com/uk";
 
 axios(url)
 	.then((r) => {
@@ -19,11 +22,11 @@ axios(url)
 
 		$(".heading-anchor").each(function () {
 			const title = $(this).text();
-			// const url = $(this).find("a").attr("href");
+			const url = $(this).find("a").attr("href");
 
 			articles.push({
 				title,
-				// url,
+				url,
 			});
 		});
 		console.log(articles);
