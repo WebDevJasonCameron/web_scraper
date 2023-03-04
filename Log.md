@@ -10,4 +10,4 @@ Some assets we use in this application
 - [axios](https://www.npmjs.com/package/axios)
 - [express](https://www.npmjs.com/package/express)
 - [cheerio](https://www.npmjs.com/package/cheerio)
-- [npm](https://npmjs.com)
+- [cors](https://www.npmjs.com/package/cors)
