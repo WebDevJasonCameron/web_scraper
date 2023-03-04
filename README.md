@@ -1,1 +1,7 @@
-# web_scraper
+# Web Scraper RM
+
+## Purpose
+
+## Plan
+
+## Exicution
